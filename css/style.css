@@ -1,0 +1,35 @@
+body{
+    width: 80%;
+}
+#img1{
+    width: 5%;
+    margin-top: 5%;
+    float: left;
+
+}
+.text{
+    padding: 10%;
+    margin-left: -4%;
+}
+
+.images{
+    float: right;
+    padding: 1px;
+}
+.images1{
+    float: right;
+    margin-left: 1%;
+}
+
+#firsth1{
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+    font-weight: bolder;
+}
+strong{
+    color: rgb(180 ,170 ,170);
+    font-family: serif;
+}
+hr{
+    border: 1px dashed whitesmoke;
+}
